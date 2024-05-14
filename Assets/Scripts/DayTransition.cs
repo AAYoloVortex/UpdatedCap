@@ -17,7 +17,7 @@ public class DayTransition : MonoBehaviour
     void Update()
     {
         count++;
-        if(count == 300)
+        if(count == 550)
         {
             SceneManager.LoadScene(scene);
         }

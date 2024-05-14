@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Day3Transition.unity
     guid: f61fc3b0ba375e74997c5cf8f135bbe2
+  - enabled: 1
+    path: Assets/Scenes/Day3.unity
+    guid: 826efe0d1c3f606409ce095e49024ca1
   m_configObjects: {}

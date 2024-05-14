@@ -13,6 +13,7 @@ TagManager:
   - Chef
   - Day3Transition
   - ClothesShop
+  - ClothesSalesman
   layers:
   - Default
   - TransparentFX

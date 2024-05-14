@@ -66,6 +66,11 @@ public class PlayerMovement : MonoBehaviour
             dayThreeArrow1.SetActive(true);
             dayThreeArrow2.SetActive(true);
         }
+        if (collision.gameObject.CompareTag("ClothesSalesman")) 
+        {
+            dayThreeArrow1.SetActive(true);
+            dayThreeArrow2.SetActive(true);
+        }
         if (collision.gameObject.CompareTag("Day3Transition"))
         {
             SceneManager.LoadScene("Day3Transition");
